@@ -1,6 +1,6 @@
-# flutter_application_1
+# Basic Flutter
 
-A new Flutter project.
+This project was built while I was taking a private online course. The "PokeAPI" feature where this feature uses an API that is available for free and the "Movie" feature where this feature provides several lists of films that are currently showing and films that will be showing, users can see details or film trailers.
 
 ## Getting Started
 
